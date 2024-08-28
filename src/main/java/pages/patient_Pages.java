@@ -8,12 +8,6 @@ import org.openqa.selenium.WebElement;
 
 public class patient_Pages extends StartupPage {
 
-	//Locators of L1 Scenarios
-	
-
-
-
-
 	String pageName = this.getClass().getSimpleName();
 	public patient_Pages(WebDriver driver) {
 		super(driver);
